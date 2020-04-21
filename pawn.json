@@ -23,7 +23,7 @@
         },
         {
             "name": "pawn-memory-windows-x86.zip",
-            "platform": "windows",
+            "platform": "android",
             "archive": true,
             "plugins": ["plugins/pawn-memory.dll"]
         }
